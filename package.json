@@ -10,7 +10,6 @@
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.7.13",
     "ffmpeg-static": "^5.2.0",
-    "node-gtts": "^2.2.0"
   },
   "engines": {
     "node": ">=18.0.0"
